@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    font-family: "Source Serif 4", serif;
+    text-shadow: 2px 3px 2px #0000009c;
+
+    
+}
+
+.Perfil{
+    text-align: center;
+    font-family: "Source Serif 4", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 20px;
+
+}
+
+.eu img {
+  width: 200px;            /* tamanho da imagem */
+  height: 200px;           /* igual à largura para formar um círculo */
+  border-radius: 50%;      /* borda arredondada */
+  object-fit: cover;       /* garante que a imagem se encaixe bem */
+  display: block;          /* necessário para usar margin auto */
+  margin: 0 auto;          /* centraliza horizontalmente */
+  border: 3px solid #333;  /* opcional: borda ao redor */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* sombra suave */
+}
+
+
+.sobre {
+ text-align: justify;
+
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+
+
+
