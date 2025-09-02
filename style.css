@@ -27,6 +27,7 @@ h1{
   box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* sombra suave */
 }
 
+
 span{
     color: #ff000092;
     font-family: 'Courier New', Courier, monospace;
@@ -48,7 +49,7 @@ body{
     font-family: "Source Serif 4", serif;
     color: black;
 
-}
+} 
 
 
 
